@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+}
+.links a {
+  margin: 0 15px;
+  color: green;
+}
